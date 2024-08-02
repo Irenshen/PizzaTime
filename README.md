@@ -1,4 +1,6 @@
 <a href="https://irenshen.github.io/PizzaTime/">Вёрстка сайта</a> по макету PSD.
+![Uploading image.png…]()
+
 Сайт создан на чистом html, сss, js. 
 
 - попап при нажатии на кнопки « заказать» 
